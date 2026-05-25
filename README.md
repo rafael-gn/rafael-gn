@@ -76,3 +76,11 @@ T.I no campus UNASP São Paulo, e atualmente curso Ciencia da Computação no me
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=rafael-gn&theme=radical" alt="Top Langs" height="195" />
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafael-gn/rafael-gn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafael-gn/rafael-gn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafael-gn/rafael-gn/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
