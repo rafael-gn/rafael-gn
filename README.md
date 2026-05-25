@@ -71,7 +71,15 @@ T.I no campus UNASP São Paulo, e atualmente curso Ciencia da Computação no me
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats-six.vercel.app/api?username=rafael-gn&theme=dracula&show_icons=true" alt="GitHub Stats" height="185" style="margin-right: 15px;" />
-  <img src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=rafael-gn&layout=compact&theme=dracula" alt="Top Langs" height="185" />
-</p>
+### 📊 Estatísticas
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-six.vercel.app/api?username=rafael-gn&theme=dracula&show_icons=true" alt="GitHub Stats" height="195" />
+    </td>
+    <td style="padding-left: 15px;">
+      <img src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=rafael-gn&layout=compact&theme=dracula" alt="Top Langs" height="195" />
+    </td>
+  </tr>
+</table>
