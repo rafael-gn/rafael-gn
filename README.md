@@ -73,4 +73,4 @@ T.I no campus UNASP São Paulo, e atualmente curso Ciencia da Computação no me
 
 ![Estatisticas do GitHub de Rafael Gomes](https://github-readme-stats-sigma-five.vercel.app/api?username=rafael-gn&show_icons=true&theme=radical)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafael-gn&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafael-gn&theme=radical)
