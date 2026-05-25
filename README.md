@@ -71,4 +71,7 @@ T.I no campus UNASP São Paulo, e atualmente curso Ciencia da Computação no me
 
 ### 📊 Estatísticas
 
-![Minhas Estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=rafael-gn&show_icons=true&theme=radical&custom_title=Minhas%20Estatisticas)
+<p align="left">
+  <img src="https://github-readme-stats-six.vercel.app/api?username=rafael-gn&theme=dracula&show_icons=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=rafael-gn&layout=compact&theme=dracula" alt="Top Langs" height="180" />
+</p>
