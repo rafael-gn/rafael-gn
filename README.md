@@ -71,4 +71,4 @@ T.I no campus UNASP São Paulo, e atualmente curso Ciencia da Computação no me
 
 ### 📊 Estatísticas
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-gn&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rafael-gn&show_icons=true&theme=tokyonight)
