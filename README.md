@@ -72,3 +72,5 @@ T.I no campus UNASP São Paulo, e atualmente curso Ciencia da Computação no me
 ### 📊 Estatísticas
 
 ![Estatisticas do GitHub de Rafael Gomes](https://github-readme-stats-sigma-five.vercel.app/api?username=rafael-gn&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark)](https://git.io/streak-stats)
