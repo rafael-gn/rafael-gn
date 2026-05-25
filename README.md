@@ -71,4 +71,10 @@ T.I no campus UNASP São Paulo, e atualmente curso Ciencia da Computação no me
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-gn&show_icons=true&theme=dark)
+<img 
+    align="left" 
+    alt="Git Hub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=rafael-gn&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+/>
